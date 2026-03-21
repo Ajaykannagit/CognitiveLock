@@ -10,7 +10,7 @@ A modern, interactive web application that transforms your notes into algorithmi
 ## ✨ Features
 
 ### 🔒 Position-Based Encryption
-- Each character is shifted by its position in the message
+- Each character is shifted by its position in the message.
 - 1st letter = +1 shift, 2nd = +2 shift, creating unique encryption per message
 - Reversed character order for additional obfuscation
 - Right-to-left display with vertical flip transformation

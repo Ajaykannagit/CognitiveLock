@@ -13,7 +13,7 @@ A modern, interactive web application that transforms your notes into algorithmi
 - Each character is shifted by its position in the message.
 - 1st letter = +1 shift, 2nd = +2 shift, creating unique encryption per message
 - Reversed character order for additional obfuscation
-- Right-to-left display with vertical flip transformation
+- Right-to-left display with vertical flip transformation.
 
 ### 🎯 Interactive Decryption
 - **Hover-based unlock**: Get close to the encrypted text to reveal it
